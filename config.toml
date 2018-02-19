@@ -1,0 +1,29 @@
+theme = "hugo-theme-nix"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Donovan Lampa's personal site"
+
+[params]
+  StackExchangeID = "1176249"
+  StackOverflowID = "1152219"
+  GithubID = "lampad"
+  TwitterID = "donovanlampa"
+  LinkedInID = "donovan-lampa-8b17a72b"
+  Name = "Donovan Lampa"
+  HeaderUsername = "lampad"
+  HeaderHostname = "localhost"
+  Email = "donovan.lampa@gmail.com"
+#  Phone = "+1-972-467-1704"
+  Mobile = "+1-972-467-1704"
+  About = "Software Engineer. When not writing code can be found gaming, reading, cooking, existing."
+  ProfilePicture = "https://secure.gravatar.com/avatar/6648e7ebf9f07c420b957a08bd9d6bedprofile_picture_url"
+#  GoogleAnalytics = "your_google_analytics_id"
+#  SlackURL = "https://join.slack.com/..."
+#  PayPalMeID = "https://www.paypal.me/..."
+#  XingURL = "https://www.xing.com/profile/..."
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "./posts"
