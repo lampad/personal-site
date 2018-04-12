@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2018-02-19T13:52:24-06:00
-draft: true
+draft: false
 
 body: "It's been a long time since I've publicly posted anything to the internet, but I'm considering getting back into it. 
 
