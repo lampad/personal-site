@@ -1,5 +1,5 @@
 theme = "hugo-theme-nix"
-baseURL = "https://donovanlampa.com/"
+baseURL = "http://donovanlampa.com/"
 languageCode = "en-us"
 title = "Donovan Lampa's personal site"
 
